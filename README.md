@@ -1,4 +1,0 @@
-- 👋 Hi, I’m Abdallah Elsayed
--    I have a Bachelor's degree in computer science.
-- I have experience in programming language and ui/ux design 
-- 👀 I’m interested in cyber security.
